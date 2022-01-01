@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Project3.git/static/css/main.2a438f3c.chunk.css",
+    "main.js": "/Project3.git/static/js/main.f7aa592d.chunk.js",
+    "main.js.map": "/Project3.git/static/js/main.f7aa592d.chunk.js.map",
+    "runtime-main.js": "/Project3.git/static/js/runtime-main.1543d76f.js",
+    "runtime-main.js.map": "/Project3.git/static/js/runtime-main.1543d76f.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Project3.git/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.deb1db3d.chunk.js": "/Project3.git/static/js/2.deb1db3d.chunk.js",
+    "static/js/2.deb1db3d.chunk.js.map": "/Project3.git/static/js/2.deb1db3d.chunk.js.map",
+    "index.html": "/Project3.git/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Project3.git/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.2a438f3c.chunk.css.map": "/Project3.git/static/css/main.2a438f3c.chunk.css.map",
+    "static/js/2.deb1db3d.chunk.js.LICENSE.txt": "/Project3.git/static/js/2.deb1db3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1543d76f.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.deb1db3d.chunk.js",
+    "static/css/main.2a438f3c.chunk.css",
+    "static/js/main.f7aa592d.chunk.js"
+  ]
+}
